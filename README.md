@@ -2,7 +2,11 @@
 
 A mobile movie application built with React Native and Expo that allows users to browse movies, search for specific titles, view detailed information, and watch trailers.
 
-![Movie App Screenshot](https://via.placeholder.com/800x400?text=Movie+App+Screenshot)
+![Movie App Screenshot]
+
+![Screenshot 2025-05-14 at 2 14 27 PM](https://github.com/user-attachments/assets/515c9e96-217f-470b-8340-3257dc90378c)
+![Screenshot 2025-05-14 at 2 15 21 PM](https://github.com/user-attachments/assets/21d194d1-0109-448e-815f-cfa225b4bffd)
+
 
 ## Features
 
@@ -36,7 +40,7 @@ A mobile movie application built with React Native and Expo that allows users to
 
 1. Clone the repository
 
-   - git clone https://github.com/yourusername/movie-app.git
+   - git clone https://github.com/jkorodio/movie-app.git
    - cd movie-app
 
 2. Install Dependencies
